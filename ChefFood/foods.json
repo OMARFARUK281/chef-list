@@ -3,86 +3,29 @@
         "id": "1",
         "img": "https://img.freepik.com/free-photo/falafel-hummus-pita-middle-eastern-arabic-dishes-halal-food-top-view-copy-space_2829-14288.jpg?w=1380&t=st=1683004377~exp=1683004977~hmac=6f802ee0363eb7128abc4de07245b6b1297a4f77854d0079c86ab5a22692dccf",
         "name": "Folafel",
-        "title": "Free photo falafel, hummus and pita. middle eastern or arabic dishes . halal food. top view. copy space"
+        "title": "hummus and pita. middle eastern or arabic dishes . halal food. top view. copy space",
+        "user": "https://img.freepik.com/free-photo/male-chef-uniform-hat-sitting-cutting-cucumber-kitchen_176474-9026.jpg?w=740&t=st=1683219313~exp=1683219913~hmac=2989a92037ab581c957bc91c658018081329ada1839c710e63a5cfbd47a614c2"
     },
     {
         "id": "2",
         "img": "https://img.freepik.com/free-photo/lemon-pepper-near-sauce-chicken_23-2147765434.jpg?w=1380&t=st=1683004922~exp=1683005522~hmac=aacdf9e652f0057117b3b654a1899cde00c5642cf029e9346ffc4b87ae853429",
         "name": "Friters",
-        "title": "lemon and pepper near sauce and chicken"
+        "title": "lemon and pepper near sauce and chicken",
+        "user": "https://img.freepik.com/free-photo/male-chef-uniform-hat-sitting-cutting-cucumber-kitchen_176474-9026.jpg?w=740&t=st=1683219313~exp=1683219913~hmac=2989a92037ab581c957bc91c658018081329ada1839c710e63a5cfbd47a614c2"
     },
     {
         "id": "3",
         "img": "https://img.freepik.com/free-photo/big-sandwich-hamburger-burger-with-beef-red-onion-tomato-fried-bacon_2829-5398.jpg?w=900&t=st=1683005095~exp=1683005695~hmac=a66816c8c73fe78d375d848d36fda66886531bc6b75ecff5630117177c5c041b",
         "name": "Hambur ger",
-        "title": "hamburger burger with beef, red onion, tomato and fried bacon."
+        "title": "hamburger burger with beef, red onion, tomato and fried bacon.",
+        "user": "https://img.freepik.com/free-photo/male-chef-uniform-hat-sitting-cutting-cucumber-kitchen_176474-9026.jpg?w=740&t=st=1683219313~exp=1683219913~hmac=2989a92037ab581c957bc91c658018081329ada1839c710e63a5cfbd47a614c2"
     },
     {
         "id": "4",
         "img": "https://img.freepik.com/free-photo/top-view-fresh-vegetables-white-flower-wooden-hammer-delicious-vegan-salad-dark-color-background_179666-47261.jpg?w=1380&t=st=1683005557~exp=1683006157~hmac=5613a332eed4e8560c076893ce1ba79e740478d1e55b98f422a9b15940783faa",
         "name": "Salad",
-        "title": "fresh vegetables white flower wooden hammer and delicious vegan salad on dark color"
-    },
-    {
-        "id": "5",
-        "img": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?w=1380&t=st=1683006001~exp=1683006601~hmac=f80b87cf188e22b5399b9152cf88f22cdb1b9f3d70837c1d4437a032325914f8",
-        "name": "Plafe",
-        "title": "side view pilaf with stewed beef meat on a plate"
-    },
-    {
-        "id": "6",
-        "img": "https://img.freepik.com/free-photo/front-view-chicken-pizza-with-bell-red-yellow-pepper-with-yellow-cherry-tomatoes_141793-4592.jpg?w=1380&t=st=1683006977~exp=1683007577~hmac=7ca36269da457d49db124f73daf6c4fb9aa0bcbffaa8111ec6e958d96da4ccde",
-        "name": "Pizza",
-        "title": "chicken pizza with bell red and yellow pepper with yellow cherry tomatoes"
-    },
-
-
-    
-    {
-        "id2": "1",
-        "img": "https://img.freepik.com/free-photo/spicy-couscous-salad_140725-1071.jpg?w=740&t=st=1683007288~exp=1683007888~hmac=76024a5c5094212859d3a2fcd8e74e8b91edbcdaf7c8749ff2d492b91789c840",
-        "name": "Tuna Chops",
-        "title": "spicy couscous salad"
-    },
-    {
-        "id2": "2",
-        "img": "https://img.freepik.com/free-photo/clode-up-view-fried-shrimps-with-lemon-table_140725-11374.jpg?w=740&t=st=1683007539~exp=1683008139~hmac=dbcf4b13c70f5d68e97a1544808c15b6cfe405d38b75bd22f9ebb30df8432112",
-        "name": "Deep Prawn Fry",
-        "title": "of fried shrimps with lemon on the table"
-    },
-    {
-        "id2": "3",
-        "img": "https://img.freepik.com/free-photo/baked-quails-pan-dark-surface_2829-5596.jpg?w=1380&t=st=1683007857~exp=1683008457~hmac=6a241d259ea25aceed3807e57cd2c2f85a3424f689a4a253e9050d9b8828d200",
-        "name": "Chicken",
-        "title": "Baked quails in pan on a dark surface"
-    },
-    {
-        "id2": "4",
-        "img": "https://img.freepik.com/free-photo/still-life-delicious-american-hamburger_23-2149637289.jpg?w=1380&t=st=1683007981~exp=1683008581~hmac=d35ff0014f8ec6f1a69d3ad0a03f4a60f9b1a031b208439ac1fa5163c5c77e5a",
-        "name": "Burger",
-        "title": "still life of delicious american hamburger"
-    } ,
-
-
-
-    
-    {
-        "about": "About",
-        "info": ""
-    },
-
-    {
-        "about": "About",
-        "info": "",
-        "news": "",
-        "others": ""
-        
-    },
-
-    {
-        "about": "About",
-        "info": "",
-        "contact": ""
+        "title": "fresh vegetables white flower wooden hammer and delicious vegan salad on dark color",
+        "user": "https://img.freepik.com/free-photo/male-chef-uniform-hat-sitting-cutting-cucumber-kitchen_176474-9026.jpg?w=740&t=st=1683219313~exp=1683219913~hmac=2989a92037ab581c957bc91c658018081329ada1839c710e63a5cfbd47a614c2"
     }
     
 ]
